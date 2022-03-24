@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Unit Conversion</string>
+    <string-array name="units_array">
+        <item>Metres</item>
+        <item>Celsius</item>
+        <item>Kilograms</item>
+    </string-array>
+    <string name="def_desc">Unit input</string>
+    <string name="description">button</string>
+</resources>
